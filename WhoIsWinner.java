@@ -1,6 +1,6 @@
 package JavaLearning;
 
-public class Temp {
+public class WhoIsWinner {
     public static String whoIsWinner(int hisCard){
         // 関数を完成させてください
         final int myCard = 10;
