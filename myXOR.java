@@ -1,10 +1,12 @@
 package JavaLearning;
 
-public class myXOR {
+public class MyXOR {
     public static boolean myXOR(boolean p, boolean q){
         if (p && q) return false;
         else if (p || q) return true;
         else return false;
+        // 別解
+        // return p != q;
     }
 
     public static void main(String[] args){
