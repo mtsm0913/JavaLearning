@@ -1,0 +1,7 @@
+class Test2_6 {
+    public static void main(String[] args) {
+        int i = 100;
+        ÅyÅ@Å@á@    Åzx = i;
+        System.out.print(x);
+    }
+}
